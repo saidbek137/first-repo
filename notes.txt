@@ -1,0 +1,5 @@
+HTML - hyper text mark up language
+
+1. Tag
+2. Attribute
+3. Element
